@@ -1,6 +1,9 @@
 # RandomUser_v2
 
 Version 2 based on Version 1 of randomuser. This fetches 7,000 users and provides inforamtion about the user. Currently the details button does not work to display selected individuals.
+Version 1: https://github.com/KylaMakPack/RandomUser
+
+Reference: https://github.com/dileno/hello-react
 
 Questions: 
 I keep getting unique key warnings, how do I fix that? 
